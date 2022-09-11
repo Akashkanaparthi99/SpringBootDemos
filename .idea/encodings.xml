@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-manytomany/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-onetomany/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-onetomanybi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-onetoone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-onetoonebi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-furnapp-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-furnapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-furnapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-productapp-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-productapp-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-productapp-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-productapp-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-productapp-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-selftutorapp-datajpa/src/main/java" charset="UTF-8" />
+  </component>
+</project>

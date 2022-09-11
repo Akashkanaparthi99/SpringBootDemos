@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-datajpa-onetoone" />
+        <module name="spring-datajpa-onetomany" />
+        <module name="spring-productapp-basic" />
+        <module name="spring-productapp-jdbc" />
+        <module name="spring-jdbc-furnapp" />
+        <module name="spring-boot-basic" />
+        <module name="spring-selftutorapp-datajpa" />
+        <module name="spring-furnapp-datajpa" />
+        <module name="spring-furnapp-jdbc" />
+        <module name="spring-productapp-datajpa" />
+        <module name="spring-productapp-data-jpa" />
+        <module name="spring-furnapp-data-jpa" />
+        <module name="spring-datajpa-onetoonebi" />
+        <module name="spring-datajpa-manytomany" />
+        <module name="spring-datajpa-onetomanybi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-basic" target="11" />
+      <module name="spring-datajpa-manytomany" target="11" />
+      <module name="spring-datajpa-onetomany" target="11" />
+      <module name="spring-datajpa-onetomanybi" target="11" />
+      <module name="spring-datajpa-onetoone" target="11" />
+      <module name="spring-datajpa-onetoonebi" target="11" />
+      <module name="spring-furnapp-data-jpa" target="11" />
+      <module name="spring-furnapp-datajpa" target="11" />
+      <module name="spring-furnapp-jdbc" target="11" />
+      <module name="spring-jdbc-furnapp" target="11" />
+      <module name="spring-productapp-basic" target="11" />
+      <module name="spring-productapp-data-jpa" target="11" />
+      <module name="spring-productapp-datajpa" target="11" />
+      <module name="spring-productapp-jdbc" target="11" />
+      <module name="spring-selftutorapp-datajpa" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-basic" options="-parameters" />
+      <module name="spring-datajpa-manytomany" options="-parameters" />
+      <module name="spring-datajpa-onetomany" options="-parameters" />
+      <module name="spring-datajpa-onetomanybi" options="-parameters" />
+      <module name="spring-datajpa-onetoone" options="-parameters" />
+      <module name="spring-datajpa-onetoonebi" options="-parameters" />
+      <module name="spring-furnapp-data-jpa" options="-parameters" />
+      <module name="spring-furnapp-datajpa" options="-parameters" />
+      <module name="spring-furnapp-jdbc" options="-parameters" />
+      <module name="spring-jdbc-furnapp" options="-parameters" />
+      <module name="spring-productapp-basic" options="-parameters" />
+      <module name="spring-productapp-data-jpa" options="-parameters" />
+      <module name="spring-productapp-datajpa" options="-parameters" />
+      <module name="spring-productapp-jdbc" options="-parameters" />
+      <module name="spring-selftutorapp-datajpa" options="-parameters" />
+    </option>
+  </component>
+</project>

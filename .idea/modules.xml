@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-basic/spring-boot-basic.iml" filepath="$PROJECT_DIR$/spring-boot-basic/spring-boot-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-datajpa-manytomany/spring-datajpa-manytomany.iml" filepath="$PROJECT_DIR$/spring-datajpa-manytomany/spring-datajpa-manytomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-datajpa-onetomany/spring-datajpa-onetomany.iml" filepath="$PROJECT_DIR$/spring-datajpa-onetomany/spring-datajpa-onetomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-datajpa-onetomanybi/spring-datajpa-onetomanybi.iml" filepath="$PROJECT_DIR$/spring-datajpa-onetomanybi/spring-datajpa-onetomanybi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-datajpa-onetoone/spring-datajpa-onetoone.iml" filepath="$PROJECT_DIR$/spring-datajpa-onetoone/spring-datajpa-onetoone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-datajpa-onetoonebi/spring-datajpa-onetoonebi.iml" filepath="$PROJECT_DIR$/spring-datajpa-onetoonebi/spring-datajpa-onetoonebi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-furnapp-data-jpa/spring-furnapp-data-jpa.iml" filepath="$PROJECT_DIR$/spring-furnapp-data-jpa/spring-furnapp-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jdbc-furnapp/spring-furnapp-datajpa.iml" filepath="$PROJECT_DIR$/spring-jdbc-furnapp/spring-furnapp-datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-furnapp-jdbc/spring-furnapp-jdbc.iml" filepath="$PROJECT_DIR$/../spring-furnapp-jdbc/spring-furnapp-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-furnapp-jdbc/spring-jdbc-furnapp.iml" filepath="$PROJECT_DIR$/spring-furnapp-jdbc/spring-jdbc-furnapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-productapp-basic/spring-productapp-basic.iml" filepath="$PROJECT_DIR$/spring-productapp-basic/spring-productapp-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-productapp-data-jpa/spring-productapp-data-jpa.iml" filepath="$PROJECT_DIR$/spring-productapp-data-jpa/spring-productapp-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-productapp-jdbc/spring-productapp-datajpa.iml" filepath="$PROJECT_DIR$/spring-productapp-jdbc/spring-productapp-datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-productapp-jdbc/spring-productapp-jdbc.iml" filepath="$PROJECT_DIR$/spring-productapp-jdbc/spring-productapp-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-selftutorapp-datajpa/spring-selftutorapp-datajpa.iml" filepath="$PROJECT_DIR$/spring-selftutorapp-datajpa/spring-selftutorapp-datajpa.iml" />
+    </modules>
+  </component>
+</project>
